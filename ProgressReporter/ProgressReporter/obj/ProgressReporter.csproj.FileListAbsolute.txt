@@ -1,0 +1,5 @@
+G:\Ph. D. Code Base\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.dll
+G:\Ph. D. Code Base\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.pdb
+G:\Ph. D. Code Base\ProgressReporter\ProgressReporter\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.dll
+G:\Ph. D. Code Base\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.pdb

@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb
+obj\Debug\ProgressReporter.dll
+obj\Debug\ProgressReporter.pdb

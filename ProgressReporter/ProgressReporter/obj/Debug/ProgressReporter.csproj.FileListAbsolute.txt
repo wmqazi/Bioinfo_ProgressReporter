@@ -1,0 +1,5 @@
+C:\Wajahat\Bioinformatics\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\ProgressReporter\ProgressReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.pdb
